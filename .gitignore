@@ -1,0 +1,5 @@
+# Compiled binaries
+solver
+*.o
+*.out
+a.out
